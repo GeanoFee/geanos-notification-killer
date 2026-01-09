@@ -1,5 +1,7 @@
 # Geano's Notification Killer
 
+![Geano's Notification Killer Showcase](https://github.com/GeanoFee/geanos-notification-killer/blob/main/showcase.jpg?raw=true)
+
 System-agnostic, lightweight FoundryVTT module that enhances player immersion by suppressing UI notifications for non-GM users.
 
 ## 🎯 Purpose
