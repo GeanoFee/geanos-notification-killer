@@ -2,6 +2,15 @@
   "title": "Geano's Notification Killer",
   "description": "Suppresses UI notifications for players, but not for the GM.",
   "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "12"
+  },
+  "authors": [
+    {
+      "name": "GeanoFee"
+    }
+  ],
   "scripts": [
     "geanos-notification-killer.js"
   ],
